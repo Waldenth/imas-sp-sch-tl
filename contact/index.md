@@ -33,7 +33,8 @@ footer: images/header-background.jpg
 %}
 {%
   include button.html
-  type="website"
-  text="BV17z4y1q7Ue"
+  type="video"
+  text="B站Demo"
   tooltip="B站Demo"
+  link="https://www.bilibili.com/video/BV17z4y1q7Ue"
 %}

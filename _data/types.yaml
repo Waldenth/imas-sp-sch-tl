@@ -30,6 +30,10 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+jptl:
+  icon: fa-solid fa-language
+  description: JP Translator
+
 # general
 
 link:
@@ -73,6 +77,11 @@ search:
   icon: fa-solid fa-magnifying-glass
   text: Search
   tooltip: Search
+
+video:
+  icon: fa-brands fa-bilibili
+  text: B站Demo
+  tooltip: B站Demo
 
 # social media
 
@@ -130,11 +139,6 @@ bilibili:
   tooltip: Bilibili
   link: https://space.bilibili.com/$VALUE
 
-video:
-  icon: fa-brands fa-bilibili
-  text: video
-  tooltip: video
-  link: https://www.bilibili.com/video/$VALUE
 
 # alerts
 
