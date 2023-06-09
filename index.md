@@ -47,7 +47,7 @@ redirect_from:
 
 {% capture text %}
 
-我们因一致的热爱而聚集，来自全国各地，为同一个目标奋斗。
+我们因一致的热爱而聚集，来自全国各地，为汉化SP而合作。
 
 {%
   include button.html

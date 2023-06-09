@@ -1,14 +1,17 @@
 - title: 系统UI
   subtitle: 系统信息汉化
+  group: featured
   image: images/ui.jpg
   description: 对EBOOT中的系统信息汉化，并替换汉化的UI图片
 
 - title: 对话信息
   subtitle: 主线对话汉化
+  group: featured
   image: images/prev0.jpg
   description: 对游戏主线中的对话和选择分支进行汉化
 
 - title: 其他信息
   subtitle: 介绍信息汉化
+  group: featured
   image: images/info.jpg
   description: 对于游戏中的文本型介绍信息进行汉化
