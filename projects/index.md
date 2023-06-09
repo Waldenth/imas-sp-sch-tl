@@ -3,6 +3,8 @@ title: Projects
 nav:
   order: 2
   tooltip: Software, datasets, and more
+header: images/header-background.jpg
+footer: images/header-background.jpg
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects

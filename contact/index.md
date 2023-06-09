@@ -27,13 +27,13 @@ footer: images/header-background.jpg
 %}
 {%
   include button.html
-  type="phone"
-  text="QQ群"
-  link="661028489"
+  type="link"
+  text="QQ群号"
+  tooltip="661028489"
 %}
 {%
   include button.html
-  type="link"
-  text="b站Demo"
-  tooltip="https://www.bilibili.com/video/BV17z4y1q7Ue"
+  type="website"
+  text="BV17z4y1q7Ue"
+  tooltip="B站Demo"
 %}

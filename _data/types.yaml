@@ -126,6 +126,12 @@ bilibili:
   tooltip: Bilibili
   link: https://space.bilibili.com/$VALUE
 
+video:
+  icon: fa-brands fa-bilibili
+  text: video
+  tooltip: video
+  link: https://www.bilibili.com/video/$VALUE
+
 # alerts
 
 tip:

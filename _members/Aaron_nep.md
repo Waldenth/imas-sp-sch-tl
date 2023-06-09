@@ -12,4 +12,4 @@ links:
   email: waldenth@outlook.com
 ---
 
-SP汉化重启发起者，偶像大师SP汉化组程序，UI信息翻译
+SP汉化重启组长，偶像大师SP汉化组程序，UI信息翻译

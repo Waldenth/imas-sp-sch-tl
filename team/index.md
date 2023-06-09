@@ -16,6 +16,3 @@ footer: images/header-background.jpg
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-{% include grid.html style="square" content=content %}

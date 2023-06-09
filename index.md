@@ -62,7 +62,7 @@ redirect_from:
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/group.png"
   link="team"
   title="成员"
   flip=true
@@ -76,7 +76,7 @@ redirect_from:
 
 {%
   include button.html
-  link="team"
+  link="contact"
   text="加入汉化组"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -88,7 +88,7 @@ redirect_from:
 {%
   include feature.html
   image="images/join.jpg"
-  link="team"
+  link="contact"
   title="加入"
   text=text
 %}
