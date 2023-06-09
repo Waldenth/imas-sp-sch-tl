@@ -34,6 +34,10 @@ tester:
   icon: fa-solid fa-microscope
   description: Tester
 
+art:
+  icon: fa-solid fa-palette
+  description: Retoucher
+
 # general
 
 link:
