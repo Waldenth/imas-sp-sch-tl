@@ -1,16 +1,29 @@
 ---
-title: Projects
+title: 项目进度
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: 当前汉化进度
 header: images/header-background.jpg
 footer: images/header-background.jpg
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}汉化进度
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+偶像大师SP汉化项目分为以下几个部分：
+
+- [公用]文本图片汉化
+  - staff's mail 23 / 0
+  - 对话：29 / 29 by GPT / 7 manual-checking
+  - 图片：100 / 0
+  - 系统UI：1054 rows / 913 rows
+  - fan's mail：NA / 6 manual
+- 完美之日PS
+  - 对话：409 / 409 by GPT / 5  manual-checking 
+- 惊奇之星WS
+  - 对话：404 / 404 by GPT / 0  manual-checking 
+- 思念之月
+  - 对话：404 / 404 by GPT / 0  manual-checking 
+- DLC：9 / 0
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -18,12 +31,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Featured
+## 效果预览
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## More
+## 相关下载
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+[【腾讯文档】进度与预览](https://docs.qq.com/doc/DTXZDbktLY0t0YnNZ)

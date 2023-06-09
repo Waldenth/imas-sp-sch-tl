@@ -1,7 +1,7 @@
 ---
 name: Aaron_nep
 image: images/Aaron.jpg
-role: Programmer
+role: programmer
 aliases:
   - Waldenth
 header: images/header-background.jpg

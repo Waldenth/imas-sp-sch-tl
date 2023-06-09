@@ -1,5 +1,5 @@
 ---
-title: imas-sp-sch-tl
+title: IM@S-SP-SCH-TLProject
 description: 偶像大师SP 简体中文汉化项目
 nav:
   order: 1
@@ -29,7 +29,7 @@ redirect_from:
 {%
   include button.html
   link="projects"
-  text="See our publications"
+  text="项目资源"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
