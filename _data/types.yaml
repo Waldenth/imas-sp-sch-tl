@@ -2,10 +2,6 @@
 
 # team member roles
 
-pi:
-  icon: fa-solid fa-microscope
-  description: Tester
-
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
@@ -33,6 +29,10 @@ mascot:
 jptl:
   icon: fa-solid fa-language
   description: JP Translator
+
+tester:
+  icon: fa-solid fa-microscope
+  description: Tester
 
 # general
 

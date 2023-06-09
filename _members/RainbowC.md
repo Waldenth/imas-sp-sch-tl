@@ -1,7 +1,7 @@
 ---
 name: RainbowC
 image: images/rainbowc.jpg
-role: pi
+role: tester
 aliases:
   - shion
 header: images/header-background.jpg
