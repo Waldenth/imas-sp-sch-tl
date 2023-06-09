@@ -9,7 +9,7 @@ footer: images/header-background.jpg
 
 # {% include icon.html icon="fa-solid fa-wrench" %}汉化进度
 
-偶像大师SP汉化项目分为以下几个部分：
+偶像大师SP汉化项目分为以下几个部分(文件数量 / 处理文件数量)：
 
 - [公用]文本图片汉化
   - staff's mail 23 / 0

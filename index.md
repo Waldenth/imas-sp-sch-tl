@@ -29,7 +29,7 @@ redirect_from:
 {%
   include button.html
   link="projects"
-  text="项目资源"
+  text="资源效果"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -41,7 +41,7 @@ redirect_from:
   include feature.html
   image="images/prev0.jpg"
   link="projects"
-  title="效果预览"
+  title="效果"
   text=text
 %}
 
