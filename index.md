@@ -3,7 +3,7 @@ title: imas-sp-sch-tl
 description: 偶像大师SP 简体中文汉化项目
 nav:
   order: 1
-  tooltip: Keep going
+  tooltip: 主页
 header: images/header-background.jpg
 footer: images/header-background.jpg
 header-dark: false
@@ -20,7 +20,7 @@ redirect_from:
 
 {% include section.html %}
 
-## Highlights
+## 进度
 
 {% capture text %}
 

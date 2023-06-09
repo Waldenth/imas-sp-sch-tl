@@ -120,6 +120,12 @@ linkedin:
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
 
+bilibili:
+  icon: fa-brands fa-bilibili
+  text: LinkedIn
+  tooltip: Bilibili
+  link: https://space.bilibili.com/$VALUE
+
 # alerts
 
 tip:
