@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: SP汉化组
+title: 偶像大师SP汉化组
 subtitle: 
 description: 偶像大师SP 简体中文汉化项目
 header: images/background.jpg
@@ -9,7 +9,7 @@ footer: images/background.jpg
 links:
   email: waldenth@outlook.com
   github: Waldenth
-  bilibili: 31914896?
+  bilibili: "31914896"
 
 ### jekyll settings
 

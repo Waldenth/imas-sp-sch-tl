@@ -24,11 +24,11 @@ redirect_from:
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+我们的目标是对《偶像大师 SP》的对话，mail，DLC以及系统UI和图片进行完全的简体中文汉化工作。
 
 {%
   include button.html
-  link="research"
+  link="projects"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -39,45 +39,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/prev0.jpg"
+  link="projects"
+  title="效果预览"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+我们因一致的热爱而聚集，来自全国各地，为同一个目标奋斗。
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="汉化组成员"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -89,6 +64,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="成员"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+如果你能够进行日译、程序、修图、测试亦或是有一腔热情，愿意协助测试，偶像大师SP汉化组欢迎你的加入！
+
+{%
+  include button.html
+  link="team"
+  text="加入汉化组"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/join.jpg"
+  link="team"
+  title="加入"
   text=text
 %}
