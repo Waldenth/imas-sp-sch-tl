@@ -10,4 +10,4 @@ links:
     home-page: about:blank
 ---
 
-SP汉化组日译组组长，校对。
+SP汉化组翻译组组长，校对。

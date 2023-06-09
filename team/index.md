@@ -9,7 +9,7 @@ footer: images/header-background.jpg
 
 # {% include icon.html icon="fa-solid fa-users" %}汉化组成员
 
-偶像大师SP汉化组目前成员信息介绍
+偶像大师SP汉化组目前成员信息
 
 {% include section.html %}
 
