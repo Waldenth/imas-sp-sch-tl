@@ -1,1 +1,1 @@
-Sitemap: /imas-sp-sch-tl/sitemap.xml
+Sitemap: /sitemap.xml
