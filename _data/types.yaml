@@ -122,7 +122,7 @@ linkedin:
 
 bilibili:
   icon: fa-brands fa-bilibili
-  text: LinkedIn
+  text: Bilibili
   tooltip: Bilibili
   link: https://space.bilibili.com/$VALUE
 
