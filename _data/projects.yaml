@@ -15,3 +15,9 @@
   group: featured
   image: images/info.jpg
   description: 对于游戏中的文本型介绍信息进行汉化
+
+- title: Mail和DLC
+  subtitle: 特殊信息
+  group: featured
+  image: images/mail.jpg
+  description: 偶像大师特色Mail和DLC内容的汉化
