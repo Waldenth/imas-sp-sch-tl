@@ -12,11 +12,12 @@ footer: images/header-background.jpg
 偶像大师SP汉化项目分为以下几个部分(文件数量 / 处理文件数量)：
 
 - [公用]文本图片汉化
-  - staff's mail 23 / 0
   - 对话：29 / 29 by GPT / 7 manual-checking
-  - 图片：100 / 0
+  - 图片：100 / 1
   - 系统UI：1054 rows / 913 rows
-  - fan's mail：NA / 6 manual
+  - fan's mail
+    - 天海春香 20 / 20
+  - staff's mail 17 / 17
 - 完美之日PS
   - 对话：409 / 409 by GPT / 5  manual-checking 
 - 惊奇之星WS

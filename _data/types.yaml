@@ -22,6 +22,10 @@ pl:
   icon: fa-solid fa-code
   description: Leader&Programmer
 
+chjptl:
+  icon: fa-solid fa-language
+  description: Chief Translator
+
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
@@ -37,6 +41,10 @@ tester:
 art:
   icon: fa-solid fa-palette
   description: Retoucher
+
+editor:
+  icon: fa-solid fa-typewriter
+  description: Editor
 
 # general
 

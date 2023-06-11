@@ -1,11 +1,11 @@
 ---
-name: GoodWood
-image: images/goodwood.jpg
-role: jptl
+name: Swift_Xp
+image: images/sx.jpg
+role: editor
 header: images/header-background.jpg
 footer: images/header-background.jpg
 links:
     home-page: about:blank
 ---
 
-偶像大师SP汉化组翻译，校对审核。
+偶像大师SP汉化组编辑
