@@ -43,7 +43,7 @@ art:
   description: Retoucher
 
 editor:
-  icon: fa-solid fa-typewriter
+  icon: fa-solid fa-user-pen
   description: Editor
 
 # general
