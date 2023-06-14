@@ -10,10 +10,10 @@ footer: images/header-background.jpg
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 偶像大师sp汉化组现在招募人手完善imas sp的汉化工作
-目前需求日译，英译，以及美工改图，同时欢迎满足任意一点或多点的编程大佬加入
+目前需求日译，英译，以及美工改图，同时欢迎满足任意一点或多点的程序加入
 
 1. Perl、或者会用Python或者其他任意语言均可，也欢迎有二进制逆向hack经验或者汉化组经验的佬做技术指导。
-2. 熟悉WindowsCMD/Powershell脚本语言。
+2. 熟悉Windows CMD/Powershell脚本语言。
 3. 电脑CPU单核性能强悍，愿意部署环境协助游戏打包。
 4. 愿意花时间辅助校对翻译组编辑文本文件。
 5. 另外也招募能帮助游戏测试的朋友加入帮忙测试，愿意重复尝试不稳定的偶像大师SP游戏，以及游戏分支覆盖 
