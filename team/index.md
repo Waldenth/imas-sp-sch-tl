@@ -2,7 +2,7 @@
 title: 汉化组成员
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: 成员信息
 header: images/header-background.jpg
 footer: images/header-background.jpg
 ---

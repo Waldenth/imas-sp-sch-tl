@@ -1,5 +1,5 @@
 ---
-title: 偶像大师SP 简体中文汉化项目
+title: 偶像大师SP 简中汉化项目
 description: IM@S-SP-SCH-TLProject
 nav:
   order: 1
