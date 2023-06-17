@@ -18,12 +18,10 @@ footer: images/header-background.jpg
   - staff's mail 17 / 17
   - fan's mail
     - 天海春香 20 / 20
-- 完美之日PS
-  - 对话：409 / 409 by GPT / 14  manual-checking 
-- 惊奇之星WS
-  - 对话：404 / 404 by GPT / 0  manual-checking 
-- 思念之月MM
-  - 对话：404 / 404 by GPT / 0  manual-checking 
+- 主线对话
+  - 完美之日PS：409 / 409 by GPT / 14  manual-checking 
+  - 惊奇之星WS：404 / 404 by GPT / 0  manual-checkin
+  - 思念之月MM：404 / 404 by GPT / 0  manual-checking 
 - DLC：9 / 0
   - 天海春香 137 / 7
   - 如月千早 137 / 10
