@@ -11,20 +11,22 @@ footer: images/header-background.jpg
 
 偶像大师SP汉化项目分为以下几个部分(文件数量 / 处理文件数量)：
 
-- [公用]文本图片汉化
-  - 对话：29 / 29 by GPT / 7 manual-checking
-  - 图片：100 / 1
+- 公用文本图片汉化
+  - 对话：29 / 29 by GPT / 8 manual-checking
+  - 图片UI：100 / 1
   - 系统UI：1054 rows / 913 rows
+  - staff's mail 17 / 17
   - fan's mail
     - 天海春香 20 / 20
-  - staff's mail 17 / 17
 - 完美之日PS
-  - 对话：409 / 409 by GPT / 5  manual-checking 
+  - 对话：409 / 409 by GPT / 14  manual-checking 
 - 惊奇之星WS
   - 对话：404 / 404 by GPT / 0  manual-checking 
-- 思念之月
+- 思念之月MM
   - 对话：404 / 404 by GPT / 0  manual-checking 
 - DLC：9 / 0
+  - 天海春香 137 / 7
+  - 如月千早 137 / 10
 
 {% include tags.html tags="publication, resource, website" %}
 
