@@ -22,10 +22,6 @@ pl:
   icon: fa-solid fa-code
   description: Leader&Programmer
 
-pe:
-  icon: fa-solid fa-code
-  description: Programmer&Editor
-
 chjptl:
   icon: fa-solid fa-language
   description: Chief Translator

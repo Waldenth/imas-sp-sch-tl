@@ -23,7 +23,7 @@ footer: images/header-background.jpg
   - 惊奇之星WS：404 / 404 by GPT / 0  manual-checkin
   - 思念之月MM：404 / 404 by GPT / 0  manual-checking 
 - DLC：9 / 0
-  - 天海春香 137 / 7
+  - 天海春香 137 / 137
   - 如月千早 137 / 10
 
 {% include tags.html tags="publication, resource, website" %}

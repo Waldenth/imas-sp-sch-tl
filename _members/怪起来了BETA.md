@@ -1,7 +1,7 @@
 ---
 name: 怪起来了
 image: images/gqll.jpg
-role: programmer
+role: art
 header: images/header-background.jpg
 footer: images/header-background.jpg
 links:
