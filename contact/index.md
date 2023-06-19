@@ -22,7 +22,8 @@ footer: images/header-background.jpg
   - 愿意花时间辅助校对翻译组编辑文本文件。
   - 另外也招募能帮助游戏测试的朋友加入帮忙测试，愿意重复尝试不稳定的偶像大师SP游戏，以及游戏分支覆盖 
     能够仔细发现测试版游戏中出现的问题并及时反馈或者系统自动化测试大佬
-
+   
+    
 {%
   include button.html
   type="email"
