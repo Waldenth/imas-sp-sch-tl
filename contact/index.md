@@ -5,6 +5,8 @@ nav:
   tooltip: 邮件，QQ群
 header: images/header-background.jpg
 footer: images/header-background.jpg
+header-dark: false
+footer-dark: false
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact

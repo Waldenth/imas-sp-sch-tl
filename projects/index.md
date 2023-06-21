@@ -5,6 +5,8 @@ nav:
   tooltip: 当前汉化进度
 header: images/header-background.jpg
 footer: images/header-background.jpg
+header-dark: false
+footer-dark: false
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}汉化进度
@@ -22,7 +24,7 @@ footer: images/header-background.jpg
   - 完美之日PS：409 / 409 by GPT / 27 manual-checking 
   - 惊奇之星WS：404 / 404 by GPT / 0  manual-checkin
   - 思念之月MM：404 / 404 by GPT / 0  manual-checking 
-- DLC：9 / 0
+- DLC
   - 天海春香 137 / 137
   - 如月千早 137 / 137
   - 高槻弥生 137 / 7
