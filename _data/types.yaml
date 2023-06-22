@@ -42,6 +42,10 @@ tester:
   icon: fa-solid fa-microscope
   description: Tester
 
+tp:
+  icon: fa-solid fa-microscope
+  description: Tester&Programmer
+
 art:
   icon: fa-solid fa-palette
   description: Retoucher
