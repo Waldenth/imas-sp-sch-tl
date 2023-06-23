@@ -14,14 +14,14 @@ footer-dark: false
 偶像大师SP汉化项目分为以下几个部分(文件数量 / 处理文件数量)：
 
 - 公用文本图片汉化
-  - 对话：29 / 29 by GPT / 15 manual-checking
-  - 图片UI：100 / 3
-  - 系统UI：1442 rows / 1224 rows
+  - 对话：29 / 29 by GPT / 20 manual-checking
+  - 图片UI：100 / 24
+  - 系统UI：1455 rows / 1455 rows
   - staff's mail 17 / 17
   - fan's mail
     - 天海春香 20 / 20
 - 主线对话
-  - 完美之日PS：409 / 409 by GPT / 27 manual-checking 
+  - 完美之日PS：409 / 409 by GPT / 49 manual-checking 
   - 惊奇之星WS：404 / 404 by GPT / 0  manual-checkin
   - 思念之月MM：404 / 404 by GPT / 0  manual-checking 
 - DLC
