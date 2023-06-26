@@ -15,13 +15,13 @@ footer-dark: false
 
 - 公用文本图片汉化
   - 对话：29 / 29 by GPT / 20 manual-checking
-  - 图片UI：100 / 24
-  - 系统UI：1455 rows / 1455 rows
+  - 图片UI：100 / 44
+  - 系统UI：1565 rows / 1460 rows
   - staff's mail 17 / 17
   - fan's mail
     - 天海春香 20 / 20
 - 主线对话
-  - 完美之日PS：409 / 409 by GPT / 49 manual-checking 
+  - 完美之日PS：409 / 409 by GPT /72 manual-checking 
   - 惊奇之星WS：404 / 404 by GPT / 0  manual-checkin
   - 思念之月MM：404 / 404 by GPT / 0  manual-checking 
 - DLC
