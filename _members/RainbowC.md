@@ -1,11 +1,11 @@
 ---
 name: RainbowC
 image: images/rainbowc.jpg
-role: tester
+role: editor
 header: images/header-background.jpg
 footer: images/header-background.jpg
 links:
     bilibili: "20274471"
 ---
 
-偶像大师SP汉化组测试，信息翻译。
+偶像大师SP汉化组编辑，信息翻译。
