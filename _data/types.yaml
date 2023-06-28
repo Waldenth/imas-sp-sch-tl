@@ -55,7 +55,7 @@ editor:
   description: Editor
 
 ea:
-  icon: fa-solid fa-user-pen
+  icon: fa-solid fa-circle-info
   description: EA
 
 # general

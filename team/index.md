@@ -22,3 +22,6 @@ footer-dark: false
 {% include list.html data="members" component="portrait" filters="role: tp" %}
 {% include list.html data="members" component="portrait" filters="role: art" %}
 {% include list.html data="members" component="portrait" filters="role: editor" %}
+{% include list.html data="members" component="portrait" filters="role: ^ea" %}
+
+
