@@ -54,6 +54,10 @@ editor:
   icon: fa-solid fa-user-pen
   description: Editor
 
+ae:
+  icon: fa-solid fa-user-pen
+  description: AE
+
 # general
 
 link:
