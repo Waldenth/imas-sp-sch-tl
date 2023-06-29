@@ -23,10 +23,10 @@ footer-dark: false
     - 如月千早 20 / 20
     - 公共 20 / 20
 - 主线对话
-  - 完美之日PS：409 / 409 by GPT /106 manual-checking 
+  - 完美之日PS：409 / 409 by GPT / 106 manual-checking 
   - 惊奇之星WS：404 / 404 by GPT / 0  manual-checkin
   - 思念之月MM：404 / 404 by GPT / 0  manual-checking 
-- DLC
+- DLC idol's mail
   - 天海春香 137 / 137
   - 如月千早 137 / 137
   - 高槻弥生 137 / 7

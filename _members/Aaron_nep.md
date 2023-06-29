@@ -12,4 +12,4 @@ links:
   email: waldenth@outlook.com
 ---
 
-偶像大师SP汉化组组长、程序、信息翻译。
+偶像大师SP汉化组组长、程序、测试、信息翻译。
