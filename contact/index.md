@@ -36,16 +36,3 @@ footer-dark: false
   text="waldenth@outlook.com"
   link="waldenth@outlook.com"
 %}
-{%
-  include button.html
-  type="link"
-  text="QQ群号"
-  tooltip="661028489"
-%}
-{%
-  include button.html
-  type="video"
-  text="B站Demo"
-  tooltip="B站Demo"
-  link="https://www.bilibili.com/video/BV17z4y1q7Ue"
-%}
