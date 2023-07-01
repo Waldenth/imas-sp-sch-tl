@@ -29,7 +29,7 @@ redirect_from:
 {%
   include button.html
   link="projects"
-  text="资源效果"
+  text="资源下载"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
