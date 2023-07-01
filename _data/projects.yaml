@@ -10,11 +10,11 @@
   image: images/prev0.jpg
   description: 对游戏主线中的对话和选择分支进行汉化
 
-- title: 其他信息
-  subtitle: 介绍信息汉化
+- title: 说明信息
+  subtitle: 说明介绍汉化
   group: featured
   image: images/info.jpg
-  description: 对于游戏中的文本型介绍信息进行汉化
+  description: 对于游戏中的文本型说明信息进行汉化
 
 - title: Mail和DLC
   subtitle: 特殊信息
