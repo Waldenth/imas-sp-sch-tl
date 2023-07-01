@@ -45,4 +45,6 @@ footer-dark: false
 
 ## 相关下载
 
-[【腾讯文档】进度与预览](https://docs.qq.com/doc/DTXZDbktLY0t0YnNZ)
+{% include list.html data="posts" component="post-excerpt" %}
+
+{% include section.html %}
