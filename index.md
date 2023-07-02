@@ -1,6 +1,6 @@
 ---
 title: 偶像大师SP汉化项目
-description: IM@S-SP-SCH-TLProject
+description: 偶像大师SP汉化
 nav:
   order: 1
   tooltip: IM@S-SP-SCH-TLProject
