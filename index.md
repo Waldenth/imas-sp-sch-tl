@@ -24,7 +24,7 @@ redirect_from:
 
 {% capture text %}
 
-我们的目标是对《偶像大师 SP》的对话，mail，DLC以及系统UI和图片进行完全的简体中文汉化工作。
+偶像大师SP汉化组的目标是对《偶像大师 SP》的对话、mail、DLC以及UI和图片进行完全的简中汉化工作。
 
 {%
   include button.html
