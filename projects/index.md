@@ -16,7 +16,7 @@ footer-dark: false
 - 公用文本图片汉化
   - 对话：29 / 29 by GPT / 29 manual-checking
   - 图片UI：100 / 81
-  - 系统信息：1565 rows / 1494 rows
+  - 系统信息：1765 rows / 1681 rows
   - staff's mail 28 / 28
   - fan's mail
     - 天海春香 20 / 20
@@ -25,7 +25,7 @@ footer-dark: false
 - 主线对话
   - 完美之日PS：409 / 409 by GPT / 144 manual-checking 
   - 惊奇之星WS：404 / 404 by GPT / 0  manual-checkin
-  - 思念之月MM：404 / 404 by GPT / 69  manual-checking 
+  - 思念之月MM：404 / 404 by GPT / 71  manual-checking 
 - DLC
   - 天海春香 137 / 137
   - 如月千早 137 / 137
