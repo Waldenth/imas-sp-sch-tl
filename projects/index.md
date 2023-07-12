@@ -25,11 +25,11 @@ footer-dark: false
 - 主线对话
   - 完美之日PS：409 / 409 by GPT / 144 manual-checking 
   - 惊奇之星WS：404 / 404 by GPT / 0  manual-checkin
-  - 思念之月MM：404 / 404 by GPT / 66  manual-checking 
+  - 思念之月MM：404 / 404 by GPT / 69  manual-checking 
 - DLC
   - 天海春香 137 / 137
   - 如月千早 137 / 137
-  - 萩原雪步 137 / 10
+  - 萩原雪步 137 / 40
   - 水濑伊织 137 / 10
   - 高槻弥生 137 / 7
 
