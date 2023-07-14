@@ -11,7 +11,7 @@ footer-dark: false
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-偶像大师sp汉化组现在招募人手完善imas sp的汉化工作，要求愿意听从组内统一安排，
+偶像大师SP汉化组现在招募人手完善IM@S-SP的汉化工作，要求愿意听从组内统一安排，
 能够按时按量完成对应的任务，混子、投机者勿扰
 
 目前需求日译、英译、以及美工改图，同时欢迎满足任意一点或多点的程序测试人员

@@ -24,8 +24,8 @@ footer-dark: false
     - 公共 20 / 20
 - 主线对话
   - 完美之日PS：409 / 409 by GPT / 144 manual-checking 
-  - 惊奇之星WS：404 / 404 by GPT / 0  manual-checkin
-  - 思念之月MM：404 / 404 by GPT / 71  manual-checking 
+  - 惊奇之星WS：404 / 404 by GPT / 0  manual-checking
+  - 思念之月MM：404 / 404 by GPT / 74  manual-checking 
 - DLC
   - 天海春香 137 / 137
   - 如月千早 137 / 137
