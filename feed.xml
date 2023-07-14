@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/imas-sp-sch-tl/feed.xml" rel="self" type="application/atom+xml" /><link href="/imas-sp-sch-tl/" rel="alternate" type="text/html" /><updated>2023-07-12T16:33:20+00:00</updated><id>/imas-sp-sch-tl/feed.xml</id><title type="html">偶像大师SP汉化组</title><subtitle>偶像大师SP汉化</subtitle><entry><title type="html">偶像大师SP-完美之日 春香线</title><link href="/imas-sp-sch-tl/2023/07/01/Haruka-ver0.1.html" rel="alternate" type="text/html" title="偶像大师SP-完美之日 春香线" /><published>2023-07-01T00:00:00+00:00</published><updated>2023-07-12T16:32:16+00:00</updated><id>/imas-sp-sch-tl/2023/07/01/Haruka-ver0.1</id><content type="html" xml:base="/imas-sp-sch-tl/2023/07/01/Haruka-ver0.1.html"><![CDATA[<p>偶像大师SP-完美之日 天海春香线 汉化 ver0.1.1</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/imas-sp-sch-tl/feed.xml" rel="self" type="application/atom+xml" /><link href="/imas-sp-sch-tl/" rel="alternate" type="text/html" /><updated>2023-07-14T09:16:44+00:00</updated><id>/imas-sp-sch-tl/feed.xml</id><title type="html">偶像大师SP汉化组</title><subtitle>偶像大师SP汉化</subtitle><entry><title type="html">偶像大师SP-完美之日 春香线</title><link href="/imas-sp-sch-tl/2023/07/01/Haruka-ver0.1.html" rel="alternate" type="text/html" title="偶像大师SP-完美之日 春香线" /><published>2023-07-01T00:00:00+00:00</published><updated>2023-07-14T09:15:46+00:00</updated><id>/imas-sp-sch-tl/2023/07/01/Haruka-ver0.1</id><content type="html" xml:base="/imas-sp-sch-tl/2023/07/01/Haruka-ver0.1.html"><![CDATA[<p>偶像大师SP-完美之日 天海春香线 汉化 ver0.1.1-BETA</p>
 
 <h2 id="汉化说明">汉化说明</h2>
 
@@ -10,11 +10,21 @@
   <li>汉化全部天海春香、如月千早DLC Mail</li>
   <li>针对性汉化歌词训练和表情训练课程</li>
   <li>补充性汉化DLC非REMIX歌曲介绍</li>
+  <li>目前版本还未做完整精校，以展示为主</li>
 </ul>
 
 <h2 id="更新说明">更新说明</h2>
 
 <ul>
+  <li>ver0.1.1-BETA
+    <ul>
+      <li>统一专有名词</li>
+      <li>修复部分文本未汉化的问题</li>
+      <li>修复部分错译、语病和物主代词错用</li>
+      <li>修复DLC Mail部分错译</li>
+      <li>补充汉化歌词训练文本</li>
+    </ul>
+  </li>
   <li>ver0.1.1
     <ul>
       <li>修复部分选择对话场景未汉化的问题</li>
@@ -36,12 +46,12 @@
 
 <p><strong>下载地址</strong></p>
 
-<p><a href="https://mega.nz/file/yp1ihD4Y#t0If2ILSy2iS7iVyvgH-QJKUU5_4Sean_xHBGpyFpmU">偶像大师SP完美之日-ver0.1.1</a></p>
+<p><a href="https://mega.nz/file/r4MxyZyA#zIdVRYO84F6-8st_lT4wtpBAReDb-gL-ANGjddsTPWo">偶像大师SP完美之日-ver0.1.1-BETA</a></p>
 
-<p><a href="https://onedrive.live.com/embed?resid=A0979A2B3CBCD633%21129&amp;authkey=!AJ-a3G5poTaW-mU">备份地址</a></p>
+<p><a href="https://onedrive.live.com/embed?resid=A0979A2B3CBCD633%21131&amp;authkey=!ABNpr_M_qrjdNjs">备份地址</a></p>
 
 <p><strong>文件SHA1哈希</strong></p>
 
-<p>[偶像大师SP汉化组]偶像大师SP完美之日-ver0.1.1</p>
+<p>[偶像大师SP汉化组]偶像大师SP完美之日-ver0.1.1-BETA.zip</p>
 
-<p>f64da0673d67fa3f2df6b90bfe0c36bff2c972ba</p>]]></content><author><name>Aaron_nep</name></author><category term="Archive" /><summary type="html"><![CDATA[偶像大师SP-完美之日 天海春香线 汉化 ver0.1.1]]></summary></entry></feed>
+<p>724c53a8627909bd62f657cd621da679e61f16f6</p>]]></content><author><name>Aaron_nep</name></author><category term="Archive" /><summary type="html"><![CDATA[偶像大师SP-完美之日 天海春香线 汉化 ver0.1.1-BETA]]></summary></entry></feed>
